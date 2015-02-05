@@ -1,0 +1,29 @@
+{
+  "name": "MU.js",
+  "version": "0.0.1",
+  "description": "Some more javascript utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MContagious/MU.js.git"
+  },
+  "keywords": [
+    "javascript",
+    "utilities",
+    "Array",
+    "extends",
+    "prototype",
+    "normalize",
+    "toObject",
+    "querySelectAll"
+  ],
+  "author": "Kishore Relangi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MContagious/MU.js/issues"
+  },
+  "homepage": "https://github.com/MContagious/MU.js"
+}
